@@ -96,7 +96,7 @@ hospital-investment-case/
 │   └── Northbridge Investment Recommendation Report.pdf
 │
 ├── docs/
-│   └── Hospital_Investment_Metadata.docx  # data dictionary
+│   └── Hospital Investment Metadata.docx  # data dictionary
 │
 └── README.md
 ```
